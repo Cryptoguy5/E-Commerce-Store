@@ -1,0 +1,36 @@
+
+header {
+        background-color: hsl(43, 51%, 79%)
+}
+
+footer {
+        background-color: hsl(43, 51%, 79%);
+        padding: 50px;
+}
+
+section {
+        background-image: url(./abstract-seamless-pattern-background-with-artistic-style_7505-1600.avif);
+}
+
+.row {
+        background-color: white;
+}
+
+@media(max-width: 680px){
+        img {
+          height: 50%;
+          width: 50%;
+        }
+
+        body {
+          height: 99%;
+          width: 99%;
+        }
+
+        .display-5 {
+                justify-content: center;
+                align-items: center;
+        }
+      }
+
+
